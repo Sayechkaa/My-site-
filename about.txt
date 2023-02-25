@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Miltonian Tattoo
+- Font Author: Copyright (c) 2011 by Pablo Impallari (www.impallari.com impallari@gmail.com). Igino Marini (www.ikern.com)
+- Font Source: http://fonts.gstatic.com/s/miltoniantattoo/v28/EvOUzBRL0o0kCxF-lcMCQxlpVsA_FwP8MDBku-s.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
